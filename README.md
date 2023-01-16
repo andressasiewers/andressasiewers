@@ -1,11 +1,14 @@
 ## Hi there, I'm Andressa! 👋
  
-  <a href = "mailto:andressacsiewers@gmail.com" target="_blank"> Gmail</a>  
-  <a href="https://www.linkedin.com/in/andressasiewers/" target="_blank"> LinkedIn</a>  
+
   
 - 🌱 I’m currently learning computer science fundamentals on <a href="https://cs50.harvard.edu/x/2023/" target="_blank"> CS50’s Introduction to Computer Science </a>
 - 🏠 Joinville, Brazil
 
+
+  <a href = "mailto:andressacsiewers@gmail.com" target="_blank"> Gmail</a>  
+  <a href="https://www.linkedin.com/in/andressasiewers/" target="_blank"> LinkedIn</a>
+  
 ##
 
 
