@@ -1,12 +1,8 @@
 ## Hi there, I'm Andressa! 👋
-
-<div> 
+ 
+  <a href = "mailto:andressacsiewers@gmail.com" target="_blank"> Gmail</a>  
+  <a href="https://www.linkedin.com/in/andressasiewers/" target="_blank"> LinkedIn</a>  
   
-  <a href = "mailto:andressacsiewers@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andressasiewers/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>  
-  
-</div>
-
 - 🌱 I’m currently learning computer science fundamentals on <a href="https://cs50.harvard.edu/x/2023/" target="_blank"> CS50’s Introduction to Computer Science </a>
 - 🏠 Joinville, Brazil
 
