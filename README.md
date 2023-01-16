@@ -3,12 +3,9 @@
 
   
 - 🌱 I’m currently learning computer science fundamentals on <a href="https://cs50.harvard.edu/x/2023/" target="_blank"> CS50’s Introduction to Computer Science</a>
+- 📬 Reach me on <a href = "mailto:andressacsiewers@gmail.com" target="_blank"> Gmail</a> and <a href="https://www.linkedin.com/in/andressasiewers/" target="_blank"> LinkedIn</a>
 - 🏠 Joinville, Brazil
 
-
-  <a href = "mailto:andressacsiewers@gmail.com" target="_blank"> Gmail</a>  
-  <a href="https://www.linkedin.com/in/andressasiewers/" target="_blank"> LinkedIn</a>
-  
 ##
 
 
