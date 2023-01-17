@@ -6,7 +6,7 @@
 
 
 
-#### Known and interest technologies
+#### Interest technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="C" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
